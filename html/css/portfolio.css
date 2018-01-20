@@ -3,4 +3,18 @@ body {
   background-color: lightblue;
 }
 
+.active {
+    background-color: #4CAF50;
+}
 
+section {
+ display: flex;
+}
+
+aside {
+ flex: 1
+}
+
+article {
+ flex: 4
+}
